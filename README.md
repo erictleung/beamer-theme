@@ -12,6 +12,7 @@ LaTeX and Beamer."
 - [Download](#download)
 - [Features](#features)
 - [Style Guide](#style-guide)
+- [Resources](#resources)
 
 Download
 --------
@@ -42,3 +43,13 @@ Some notable points:
 3. "Do not inflict pain on other people"
 
 [beamerguide]: http://tug.ctan.org/macros/latex/contrib/beamer/doc/beameruserguide.pdf
+
+Resources
+---------
+
+Other resources to create Beamer presentations.
+
+- https://texblog.org/2011/05/03/beamer-an-introduction-to-latex-presentations/
+- https://texblog.org/2013/01/21/side-by-side-content-in-beamer-presentations/
+- https://www.sharelatex.com/learn/TikZ_package
+- https://www.sharelatex.com/learn/Pgfplots_package
