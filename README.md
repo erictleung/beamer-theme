@@ -53,3 +53,5 @@ Other resources to create Beamer presentations.
 - https://texblog.org/2013/01/21/side-by-side-content-in-beamer-presentations/
 - https://www.sharelatex.com/learn/TikZ_package
 - https://www.sharelatex.com/learn/Pgfplots_package
+- https://www.sharelatex.com/learn/Lengths_in_LaTeX
+- https://www.uncg.edu/cmp/reu/presentations/Charles%20Batts%20-%20Beamer%20Tutorial.pdf
