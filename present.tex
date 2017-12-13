@@ -1,0 +1,44 @@
+\documentclass{beamer}
+
+% Add packages
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{amsmath}
+
+% Set basic theming for presentation
+\usetheme{Boadilla}
+\usecolortheme{seagull}
+
+% Specify title and author information
+\title{Template Beamer Presentation}
+\subtitle{To Edit Away}
+\author{John Smith}
+\institute[PCC]{Portland Community College}
+\date{2017-01-01}
+
+\begin{document}
+
+\begin{frame}
+  \maketitle
+\end{frame}
+
+% Two-column slide
+\begin{frame}{The columns environment}
+  \begin{columns}
+
+  \begin{column}{0.47\textwidth}
+    \begin{itemize}
+      \item First item
+      \item Second item
+      \item Third item
+    \end{itemize}
+  \end{column}
+
+  \begin{column}{0.5\textwidth}
+    \rule{\textwidth}{0.75\textwidth}
+  \end{column}
+
+  \end{columns}
+\end{frame}
+\end{document}
