@@ -7,6 +7,9 @@ Inspired by [this post](https://tex.stackexchange.com/a/158657) where by I
 wanted a Beamer template that didn't overwhelmingly scream, "I made this with
 LaTeX and Beamer."
 
+This repository also contains my notes and resources on how to make good
+presentations.
+
 **Table of Contents**
 
 - [Download](#download)
@@ -42,7 +45,16 @@ Some notable points:
 2. If using a table of contents, make it comprehensible before the talk
 3. "Do not inflict pain on other people"
 
+**Make equations brief but understanable**
+
+[BetterExplained][be] has a page on [Colorized Math Equations][colormath],
+where an equation is broken up and colorcoded with a corresponding
+easy-to-read description with matching colors for references the equation.
+
+I really like this for displaying and explaining equations.
+
 [beamerguide]: http://tug.ctan.org/macros/latex/contrib/beamer/doc/beameruserguide.pdf
+[be]: https://betterexplained.com
 
 Resources
 ---------
