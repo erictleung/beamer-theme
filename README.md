@@ -36,7 +36,7 @@ Features
 - Ability to add PGF/TikZ plots
 - Add two or three columns to slide
 - Slide numbers
-- `component.tex` file for common slide arrangements
+- `components.tex` file for common slide arrangements
 
 Style Guide
 -----------
