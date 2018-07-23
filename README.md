@@ -60,6 +60,7 @@ I really like this for displaying and explaining equations.
 
 [beamerguide]: http://tug.ctan.org/macros/latex/contrib/beamer/doc/beameruserguide.pdf
 [be]: https://betterexplained.com
+[colormath]: https://betterexplained.com/articles/colorized-math-equations/
 
 Resources
 ---------
